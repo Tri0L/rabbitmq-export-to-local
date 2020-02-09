@@ -20,7 +20,7 @@ Is not mine :)
 Clone this repo
 Build your image locally (don't want to push it anywhere for now)
 
-    $ docker built -t jecnua/rabbitmq-export .
+    $ docker build -t jecnua/rabbitmq-export .
 
 Run it
 
